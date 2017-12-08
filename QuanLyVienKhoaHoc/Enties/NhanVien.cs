@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuanLyVienKhoaHoc
+namespace QuanLyVienKhoaHoc.Enties
 {
-    class Program
+    class NhanVien
     {
-        static void Main(string[] args)
-        {
-
-        }
+        //Coding...
     }
 }
