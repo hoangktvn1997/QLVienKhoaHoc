@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enties\NhaKhoaHoc.cs" />
     <Compile Include="Enties\NhanVien.cs" />
+    <Compile Include="Enties\NhanVienPhongThiNghiem.cs" />
+    <Compile Include="Enties\NhaQuanLy.cs" />
+    <Compile Include="Enum\BangCap.cs" />
+    <Compile Include="Enum\ChucVu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

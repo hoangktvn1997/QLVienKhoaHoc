@@ -7,12 +7,12 @@ using QuanLyVienKhoaHoc.Enum;
 
 namespace QuanLyVienKhoaHoc.Enties
 {
-    class NhanVien
+    class NhaQuanLy : NhanVien
     {
-        public string HoTen { get; set; }
+        public ChucVu ChucVu { get; set; }
 
-        public DateTime NamSinh { get; set; }
+        public int SoNgayCong { get; set; }
 
-        public BangCap BangCap { get; set; }
+        public double BacLuong { get; set; }
     }
 }
