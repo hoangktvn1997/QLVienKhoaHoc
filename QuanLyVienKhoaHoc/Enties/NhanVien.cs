@@ -9,5 +9,6 @@ namespace QuanLyVienKhoaHoc.Enties
     class NhanVien
     {
         //Coding...
+        // +S >>>>> ///
     }
 }
