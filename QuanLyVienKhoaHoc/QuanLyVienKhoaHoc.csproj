@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Apps\QLVienKhoaHocApp.cs" />
     <Compile Include="Enties\NhaKhoaHoc.cs" />
     <Compile Include="Enties\NhanVien.cs" />
     <Compile Include="Enties\NhanVienPhongThiNghiem.cs" />
